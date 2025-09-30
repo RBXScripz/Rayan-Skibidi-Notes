@@ -159,8 +159,8 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 **Rayan Siddique**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: RBXScripz
+- Email: rayansiddique728@gmail.com
 
 ## 🙏 Acknowledgments
 
